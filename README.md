@@ -40,4 +40,6 @@ Please note that:
  - there is no particular order to follow when starting the containers.
 
 *More specific details could be found in the downloadable **Practice Exam** document available in the **Regular Exam** section of the course.*
+
+*The solution for this is in the exam.rar archive, automated deployment*
 Modified on 2022-11-13 10:03:58
