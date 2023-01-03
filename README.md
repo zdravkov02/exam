@@ -1,5 +1,5 @@
 # Fun Facts
-A simple project to be used for the final practice exam for the [**DevOps - Containerization, CI/CD & Monitoring (2022.02)**](https://softuni.bg/trainings/3670/devops-containerization-ci-cd-monitoring-february-2022) and [**DevOps - Containerization, CI/CD & Monitoring (2022.09)**](https://softuni.bg/trainings/3888/devops-containerization-ci-cd-monitoring-september-2022) courses at **SoftUni**. 
+A simple project.
 
 It is a set of three Docker containers, each with a dedicated role. Together they form a simple web application. 
 
